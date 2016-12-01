@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.msit.in	TRUE	/	FALSE	1999999999	request_method	GET
+www.msit.in	TRUE	/	FALSE	1999999999	_msit_session	Nzhlc25lMHk0cHUxV1liUWtJOGxWZGRDNEl2dGtPWG5McTRuV0YzVWZ6cEVhZXA1Q2pWQ0NXMnVsQXErZ1YrdVJUdDdlUzN5Rms5Y0tUQkJKSWo0cUlIakJRZWZGMzBCb0RiSCt2bnVUYTFTZHJHT0lzWTZKTGNOa0ZvTEpreGdsY2xOdXk2WlR4R2lNVmZDbjk4a0JnPT0tLVZKWXp1dEJxdVgwb09OL3JNR3pWQVE9PQ%3D%3D--bf21b178aeda8187b613172489908bad15c51f88
+
