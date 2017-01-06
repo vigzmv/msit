@@ -1,5 +1,7 @@
+q="querySelector('strong').innerHTML.split(' ')[1]";
+s=">div>table>tbody";
 ["#robotics", "#quizzes"]
-    .forEach(item => { document.querySelector(`${item} > div > table > tbody`)
-    .innerHTML = Array.from(document.querySelectorAll(`${item} > div > table > tbody > tr`))
-    .sort((a, b) => a.querySelector('strong').innerHTML.split(" ")[1] > b.querySelector('strong').innerHTML.split(" ")[1] ? 1 : -1)
-    .map(s => s.outerHTML).join(" ")});
+	.forEach(I=>{ document.querySelector(`${I}${s}`)
+	.innerHTML=[...document.querySelectorAll(`${I}${s}>tr`)]
+	.sort((a,b)=>eval(`a.${q}`)>eval(`b.${q}`)?1:-1)
+	.map(s=>s.outerHTML).join('')});
